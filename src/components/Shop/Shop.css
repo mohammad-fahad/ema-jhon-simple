@@ -1,10 +1,10 @@
-.shop-container{
+.twin-container{
     display: flex;
     /* margin-top: 10%; */
 }
 .product-container{
     width: 70%;
-    margin-left: 100px;
+    margin-left: 100px;    
     border-right: 1px solid lightgray;
 }
 .cart-container{
@@ -14,10 +14,10 @@
     /* top: 0px; */
     overflow: hidden;
     margin-left: 85%;
-    margin-top: 10%;
+    
     /* position: absolute; */
 }
-button{
+.button{
     height: 30px;
     width: 70px;
     background-color: #FF453F;
